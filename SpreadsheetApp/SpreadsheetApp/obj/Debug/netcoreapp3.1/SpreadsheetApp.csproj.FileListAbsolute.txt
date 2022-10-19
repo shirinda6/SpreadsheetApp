@@ -1,0 +1,51 @@
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csprojAssemblyReference.cache
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.Form1.resources
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.Properties.Resources.resources
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.exe
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll.config
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.deps.json
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.json
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.dev.json
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\shir\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.exe
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll.config
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.deps.json
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.json
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.dev.json
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.Properties.Resources.resources
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.SpreadsheetAppMain.resources
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.exe
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll.config
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.deps.json
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.json
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.dev.json
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csprojAssemblyReference.cache
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.Properties.Resources.resources
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.SpreadsheetAppMain.resources
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\shir\Desktop\שיר\שנה ב\סמסטר ד\מבוא למערכות הפעלה\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\SharableSpreadaheet\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csprojAssemblyReference.cache
